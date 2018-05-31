@@ -6,7 +6,7 @@ const filesToCache = [
   'inline.bundle.js',
   'main.bundle.js',
   'polyfills.bundle.js',
-  'register_sw.js',
+  //'register_sw.js',
   'styles.bundle.css',
   'vendor.bundle.js',
   'assets/images/android_048.png',
