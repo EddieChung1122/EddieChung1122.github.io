@@ -67,7 +67,7 @@ function urlB64ToUint8Array(base64String) {
   return outputArray;
 }
 
-const applicationServerPublicKey = `BPkIUOIylNfWjC9MQ3_8oVx0MsaryiEaak1WyYWyqWp1-FuyQitttiMkdjvACkoEds94crwhyRIyVTyc2tVYICI`;
+const applicationServerPublicKey = `BENhb_0sXue3VaETzz5jrFTdnMrOLTAuIWIrjUOTKVC3-vR8C6Hq17EDcaQPAPG8Wrfa0FhWn9esvUANiyfNmYI`;
 
 function subscribeUser(swRegistration) {
   const applicationServerKey = urlB64ToUint8Array(applicationServerPublicKey);
